@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Software Engineer</h1>
+<h1 align="center">Hi , I'm Software Engineer</h1>
 <h3 align="center">Passionate second-year IT student and dedicated software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth76200&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth76200" /> </p>
 
 <p align="left"> <a href="https://twitter.com/here_prasanth01" target="blank"><img src="https://img.shields.io/twitter/follow/here_prasanth01?logo=twitter&style=for-the-badge" alt="here_prasanth01" /></a> </p>
 
-- 📫 How to reach me **prasanth76200@gmail.com**
+- How to reach me **prasanth76200@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/followprasanth](https://www.linkedin.com/in/followprasanth)
+- Know about my experiences [https://www.linkedin.com/in/followprasanth](https://www.linkedin.com/in/followprasanth)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
