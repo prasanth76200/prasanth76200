@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth76200&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth76200" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasanth76200" alt="prasanth76200" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/here_prasanth01" target="blank"><img src="https://img.shields.io/twitter/follow/here_prasanth01?logo=twitter&style=for-the-badge" alt="here_prasanth01" /></a> </p>
 
 - 📫 How to reach me **prasanth76200@gmail.com**
@@ -25,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanth76200&show_icons=true&locale=en" alt="prasanth76200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanth76200&" alt="prasanth76200" /></p>
-
-
