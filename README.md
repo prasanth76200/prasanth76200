@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/here_prasanth01" target="blank"><img src="https://img.shields.io/twitter/follow/here_prasanth01?logo=twitter&style=for-the-badge" alt="here_prasanth01" /></a> </p>
 
-- How to reach me **prasanth76200@gmail.com**
+- Feel Free to reach me **prasanth76200@gmail.com**
 
 - Know about my experiences [https://www.linkedin.com/in/followprasanth](https://www.linkedin.com/in/followprasanth)
 
